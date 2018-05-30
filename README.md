@@ -3,6 +3,8 @@
 РУССКИЙ ПЕРЕВОД КНИГИ АНДРЕАСА МЮЛЛЕРА И САРЫ ГВИДО "INTRODUCTION TO MACHINE LEARNING WITH PYTHON"
 ------------------------------------------------------------------------
 ![enter image description here](https://lh3.googleusercontent.com/ftXl_iGeOScqZqLeK0Vbp5GyBWOLD0jUwFTy18DA9iXWEbw-fdA_iVzKEDbfSl6ws28qJfgDDghG)
+
+
 Эта книга организована примерно следующим образом:
 
 В [главе 1 "Введение"](https://github.com/Gewissta/Introduction_to_ML_with_Python_russian_translation/blob/master/01_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.ipynb) кратко  рассказывается об основных понятиях машинного обучения и сферах его применения, а также описана установка основных библиотек, которые мы будем использовать на протяжении всей книги.
